@@ -1,0 +1,372 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "pdfplumber",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfplumber",
+        "description": "pdfplumber",
+        "detail": "pdfplumber",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ollama",
+        "description": "ollama",
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "UnstructuredPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "UnstructuredPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "OnlinePDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "OllamaEmbeddings",
+        "importPath": "langchain_community.embeddings",
+        "description": "langchain_community.embeddings",
+        "isExtraImport": true,
+        "detail": "langchain_community.embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "Chroma",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "PromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOllama",
+        "importPath": "langchain_community.chat_models",
+        "description": "langchain_community.chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_community.chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "RunnablePassthrough",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "RunnablePassthrough",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "MultiQueryRetriever",
+        "importPath": "langchain.retrievers.multi_query",
+        "description": "langchain.retrievers.multi_query",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers.multi_query",
+        "documentation": {}
+    },
+    {
+        "label": "MultiQueryRetriever",
+        "importPath": "langchain.retrievers.multi_query",
+        "description": "langchain.retrievers.multi_query",
+        "isExtraImport": true,
+        "detail": "langchain.retrievers.multi_query",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "threadpoolctl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threadpoolctl",
+        "description": "threadpoolctl",
+        "detail": "threadpoolctl",
+        "documentation": {}
+    },
+    {
+        "label": "extract_model_names",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def extract_model_names(\n    models_info: Dict[str, List[Dict[str, Any]]],\n) -> Tuple[str, ...]:\n    \"\"\"\n    Extract model names from the provided models information.\n    Args:\n        models_info (Dict[str, List[Dict[str, Any]]]): Dictionary containing information about available models.\n    Returns:\n        Tuple[str, ...]: A tuple of model names.\n    \"\"\"",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "create_vector_db",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def create_vector_db(file_upload) -> Chroma:\n    \"\"\"\n    Create a vector database from an uploaded PDF file.\n    Args:\n        file_upload (st.UploadedFile): Streamlit file upload object containing the PDF.\n    Returns:\n        Chroma: A vector store containing the processed document chunks.\n    \"\"\"\n    logger.info(f\"Creating vector DB from file upload: {file_upload.name}\")\n    temp_dir = tempfile.mkdtemp()",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "process_question",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def process_question(question: str, vector_db: Chroma, selected_model: str) -> str:\n    \"\"\"\n    Process a user question using the vector database and selected language model.\n    Args:\n        question (str): The user's question.\n        vector_db (Chroma): The vector database containing document embeddings.\n        selected_model (str): The name of the selected language model.\n    Returns:\n        str: The generated response to the user's question.\n    \"\"\"",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "extract_all_pages_as_images",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def extract_all_pages_as_images(file_upload) -> List[Any]:\n    \"\"\"\n    Extract all pages from a PDF file as images.\n    Args:\n        file_upload (st.UploadedFile): Streamlit file upload object containing the PDF.\n    Returns:\n        List[Any]: A list of image objects representing each page of the PDF.\n    \"\"\"\n    logger.info(f\"\"\"Extracting all pages as images from file: {\n                file_upload.name}\"\"\")",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "delete_vector_db",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def delete_vector_db(vector_db: Optional[Chroma]) -> None:\n    \"\"\"\n    Delete the vector database and clear related session state.\n    Args:\n        vector_db (Optional[Chroma]): The vector database to be deleted.\n    \"\"\"\n    logger.info(\"Deleting vector DB\")\n    if vector_db is not None:\n        vector_db.delete_collection()\n        st.session_state.pop(\"pdf_pages\", None)",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "def main() -> None:\n    \"\"\"\n    Main function to run the Streamlit application.\n    This function sets up the user interface, handles file uploads,\n    processes user queries, and displays results.\n    \"\"\"\n    st.subheader(\"🧠 Ollama PDF RAG playground\", divider=\"gray\", anchor=False)\n    models_info = ollama.list()\n    available_models = extract_model_names(models_info)\n    col1, col2 = st.columns([1.5, 2])",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "streamlit_app",
+        "description": "streamlit_app",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@st.cache_resource(show_spinner=True)\ndef extract_model_names(\n    models_info: Dict[str, List[Dict[str, Any]]],\n) -> Tuple[str, ...]:\n    \"\"\"\n    Extract model names from the provided models information.\n    Args:\n        models_info (Dict[str, List[Dict[str, Any]]]): Dictionary containing information about available models.\n    Returns:",
+        "detail": "streamlit_app",
+        "documentation": {}
+    },
+    {
+        "label": "local_path",
+        "kind": 5,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "local_path = \"Mawared-full-dataset-alpaca_-Sheet1.pdf\"\n# Local PDF file uploads\nloader = UnstructuredPDFLoader(file_path=local_path)\ndata = loader.load()\n# Preview first page\ndata[0].page_content\n# # Split and chunk \n# text_splitter = RecursiveCharacterTextSplitter(chunk_size=7500, chunk_overlap=100)\n# chunks = text_splitter.split_documents(data)\n# # Add to vector database",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "kind": 5,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "loader = UnstructuredPDFLoader(file_path=local_path)\ndata = loader.load()\n# Preview first page\ndata[0].page_content\n# # Split and chunk \n# text_splitter = RecursiveCharacterTextSplitter(chunk_size=7500, chunk_overlap=100)\n# chunks = text_splitter.split_documents(data)\n# # Add to vector database\n# vector_db = Chroma.from_documents(\n#     documents=chunks, ",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "data = loader.load()\n# Preview first page\ndata[0].page_content\n# # Split and chunk \n# text_splitter = RecursiveCharacterTextSplitter(chunk_size=7500, chunk_overlap=100)\n# chunks = text_splitter.split_documents(data)\n# # Add to vector database\n# vector_db = Chroma.from_documents(\n#     documents=chunks, \n#     embedding=OllamaEmbeddings(model=\"nomic-embed-text\",show_progress=True),",
+        "detail": "script",
+        "documentation": {}
+    }
+]

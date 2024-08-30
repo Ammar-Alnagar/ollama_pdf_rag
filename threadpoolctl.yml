@@ -1,0 +1,14 @@
+
+libraries:
+  - name: libiomp
+    version: '2021.3'
+    paths:
+      - path_to_libiomp
+    openmp:
+      preferred: true
+  - name: libomp
+    version: '13.0'
+    paths:
+      - path_to_libomp
+    openmp:
+      preferred: false
