@@ -6,16 +6,7 @@ This is a demo (accompanying the YouTube tutorial below) Jupyter Notebook showca
   <img src="https://img.youtube.com/vi/ztBJqzBU5kc/hqdefault.jpg" alt="Watch the video" width="100%">
 </a>
 
-If you have any questions or suggestions, please feel free to create an issue in this repository or comment on the YouTube video; I will do my best to respond.
-
-Thank you for watching, and I hope you found this resource useful! 😊
-
-## Running the Streamlit application
-
-1. **Clone repo**: Run this in your terminal 
-
-      ```bash
-      git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
+If you have any questions or suggestions, please feel free to create an issue in this repository or comment nykipkemboi/ollama_pdf_rag.git
       ```
 
 2. **Install Dependencies**: Execute to install dependencies
