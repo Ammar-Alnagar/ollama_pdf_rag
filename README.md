@@ -24,8 +24,4 @@ Thank you for watching, and I hope you found this resource useful! 😊
       pip install -r requirements.txt
       ```
 
-3. **Launch the App**: Run to start the Streamlit interface on `localhost`
-
-      ```bash
-      streamlit run streamlit_app.py
-      ``` 
+3. 
